@@ -1,14 +1,14 @@
 {
-  "name": "do-nothing-and-dance-with-renovate",
-  "version": "2.0.0",
-  "description": "does nothing",
+  "name": "@((()/do-nothing",
+  "version": "1.0.0",
+  "description": "do nothing",
   "main": "index.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/schniddsel/do-nothing.git"
+    "url": "git+https://github.com/tj-commits/do-nothing.git"
   },
   "keywords": [
     "does",
@@ -17,7 +17,7 @@
   "author": "Ich",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/schniddsel/do-nothing/issues"
+    "url": "https://github.com/tj-commits/do-nothing/issues"
   },
-  "homepage": "https://github.com/schniddsel/do-nothing#readme"
+  "homepage": "https://github.com/tj-commits/do-nothing#readme"
 }
