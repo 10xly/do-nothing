@@ -1,4 +1,5 @@
-module.exports=function 
+/* eslint-disable capitalized-comments, no-inline-comments */
+module.exports=function // export a function
 
 
 
@@ -15,8 +16,8 @@ module.exports=function
 
 
 
+noop() // call the noop function
 
-(
-)
 {
+  // wow scope!1
 }

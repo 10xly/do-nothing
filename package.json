@@ -1,6 +1,6 @@
 {
   "name": "@((()/do-nothing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "do nothing",
   "main": "index.js",
   "scripts": {
